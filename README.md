@@ -1,4 +1,4 @@
-## Olá, eu sou [João Vitor Roventini]! 👋
+## Olá, eu sou João Vitor Roventini! 👋
 
 - 🔭 Atualmente estou trabalhando em projetos de desenvolvimento web usando **Python (Flask)** e **C# (Windows Forms)**.
 - 🌱 Sempre aprendendo mais sobre **bancos de dados** (MySQL, Oracle) e melhores práticas de **desenvolvimento de software**.
