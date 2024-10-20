@@ -16,10 +16,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🌐 Acesse meu site:
+Você pode visitar meu site através do seguinte link: [Meu Espaço](https://jvrov.github.io/site/)
+
 ### 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvrov&show_icons=true&theme=radical)
 
 ### 🌐 Onde me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/joão-vitor-roventini-61660822a/)
 - [Email](mailto:jv.roventini@gmail.com)
-
