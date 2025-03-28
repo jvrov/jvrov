@@ -5,7 +5,6 @@
 - 💬 Me pergunte sobre: **Flask**, **SQLAlchemy**, **C#**, **estruturas de dados** e **sistemas web**.
 - 🎯 Meu objetivo é continuar aprimorando minhas habilidades de back-end e trabalhar em projetos cada vez mais desafiadores!
 - 💻 Adoro colaborar em projetos open-source e explorar novas tecnologias.
-- ⚡ Fato curioso: Adoro ler webnovels, e **Arthur Leywin** de *The Beginning After the End* é meu protagonista favorito!
 
 ### 🚀 Tecnologias & Ferramentas:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
