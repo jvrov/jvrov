@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 João Vitor Roventini
+# João Vitor Roventini
 
 ### Engenheiro de Software | Desenvolvedor Full-Stack | 21 anos
 
