@@ -12,13 +12,8 @@
 
 ## 🎯 Sobre Mim
 
-Sou um **desenvolvedor apaixonado** por tecnologia e inovação! 🚀 Estou cursando Engenharia de Software na PUC-Campinas (6º semestre) e trabalho constantemente para melhorar minhas habilidades técnicas.
+Sou um desenvolvedor! Estou cursando Engenharia de Software na PUC-Campinas (6º semestre) e trabalho constantemente para melhorar minhas habilidades técnicas.
 
-Adoro **criar soluções** que realmente impactam as pessoas, seja através de aplicações web modernas, APIs robustas ou sistemas escaláveis. Sou um eterno aprendiz, sempre explorando novas tecnologias e melhores práticas de desenvolvimento.
-
-**💡 Minha Filosofia:** Code with passion, learn with purpose, build with impact!
-
----
 
 ## 🛠️ Tech Stack
 
@@ -74,7 +69,7 @@ Adoro **criar soluções** que realmente impactam as pessoas, seja através de a
 
 ## 💼 Experiência & Projetos
 
-### 🎓 Projetos Acadêmicos (2024-2025)
+### 🎓 Projetos Acadêmicos (2022-2026)
 
 **Full-Stack Web Application**
 - Desenvolvido com **React**, **Node.js**, **MongoDB**
@@ -158,7 +153,6 @@ Estou sempre aberto para:
 
 ## 🌟 Curiosidades sobre Mim
 
-- 🎮 Nerd declarado de tecnologia e games
 - 📖 Leio sobre desenvolvimento de software e inovação
 - 🏃 Amante de desafios que saem da zona de conforto
 - 🎧 Código melhor com música
