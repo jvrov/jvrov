@@ -4,8 +4,6 @@
 
 ### Engenheiro de Software | Desenvolvedor Full-Stack | 21 anos
 
-![Profile views](https://komarev.com/ghpvc/?username=jvrov&color=blue)
-
 </div>
 
 ---
