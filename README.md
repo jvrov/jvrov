@@ -1,102 +1,136 @@
 <div align="center">
 
-# 👋 Hi, I'm João Vitor Roventini
+# 👋 Olá, eu sou João Vitor Roventini
 
-### Software Engineering Student & Full Stack Developer
+### 🎓 Estudante de Engenharia de Software | 💻 Desenvolvedor Full Stack
 
-📍 Campinas Region, Brazil  
-🎓 Software Engineering @ PUC-Campinas  
-💼 Open to Internship & Junior Developer opportunities
+Desenvolvo aplicações web, APIs, sistemas com IA e também exploro desenvolvimento de jogos.
+
+🚀 Buscando oportunidades de estágio e desenvolvimento júnior.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://jvrov.github.io/site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Vitor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-roventini-61660822a/)
-[![GitHub](https://img.shields.io/badge/GitHub-jvrov-181717?style=for-the-badge&logo=github)](https://github.com/jvrov)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-111111?style=for-the-badge&logo=github&logoColor=white)](https://jvrov.github.io/site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-roventini-61660822a/)
+[![GitHub](https://img.shields.io/badge/GitHub-jvrov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jvrov)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
-I'm a Software Engineering student at **PUC-Campinas**, currently focused on becoming a professional software developer.
+Sou estudante de **Engenharia de Software na PUC-Campinas**, com interesse principalmente em desenvolvimento de software, backend, aplicações web e inteligência artificial.
 
-I enjoy building complete applications, APIs, automation tools, AI-powered systems and experimenting with game development.
+Gosto de criar projetos completos, desde a ideia até a implementação, trabalhando com frontend, backend, banco de dados, APIs e automações.
 
-My main interests are:
+Atualmente estou aprofundando meus conhecimentos em:
 
-- 🌐 Full Stack Development
-- ⚙️ Backend & APIs
-- 🤖 Artificial Intelligence
-- 🗄️ Databases
-- 🎮 Game Development
-- 🧠 Software Architecture
-
-Currently looking for opportunities where I can work on real software products, learn from experienced developers and continue evolving technically.
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 Industrial Deal Intelligence
-
-AI-powered platform for analyzing industrial contracts.
-
-**Highlights**
-- PDF contract analysis
-- AI-assisted risk detection
-- Risk score from 0–10
-- Financial, legal and operational analysis
-- Interactive Dash dashboards
-- Contract history and comparison
-
-**Tech:** Python · Dash · Flask · OpenAI · SQLite
-
-[View Repository](https://github.com/jvrov/rh-auto)
+- Arquitetura de software
+- Desenvolvimento Full Stack
+- APIs REST
+- Inteligência Artificial
+- Banco de dados
+- Docker e deploy
+- Desenvolvimento de jogos
 
 ---
 
-### 🏰 Tiny Kingdom
+# 🚀 Projetos em destaque
 
-2D pixel-art RPG focused on exploration, combat, progression and village development.
+## 🤖 RH Auto / Industrial Deal Intelligence
 
-**Highlights**
-- Exploration and combat system
-- Character progression
-- Persistent save system
-- Resource collection
-- Village hub
-- Automated tests
-- Architecture prepared for mobile
+Sistema inteligente para análise de contratos industriais utilizando IA.
 
-**Tech:** Godot · GDScript · Git
+### Principais funcionalidades
 
-[View Repository](https://github.com/jvrov/Tiny-Kingdom)
+- 📄 Upload e análise de contratos em PDF
+- 🤖 Análise utilizando Inteligência Artificial
+- ⚠️ Identificação de cláusulas de risco
+- 📊 Score de risco de 0 a 10
+- 📈 Dashboards interativos
+- 🔍 Identificação de multas, retenções e responsabilidades
+- 📚 Histórico de análises
+- ⚖️ Comparação entre contratos
 
----
+### Tecnologias
 
-### 🎯 ApostasVIP
+`Python` `Dash` `Flask` `SQLite` `OpenAI` `Plotly`
 
-Full-stack betting event platform developed as a web application.
-
-**Highlights**
-- Authentication
-- Event creation
-- Betting system
-- User wallet
-- Transaction history
-- Event moderation
-
-**Tech:** Python · Flask · MySQL · HTML · CSS
-
-[View Repository](https://github.com/jvrov/PROJETO2)
+🔗 [Ver projeto](https://github.com/jvrov/rh-auto)
 
 ---
 
-## 🛠️ Tech Stack
+## 🏰 Tiny Kingdom
 
-### Languages
+RPG 2D com exploração, combate, coleta de recursos, evolução de personagem e desenvolvimento de vila.
+
+### Principais funcionalidades
+
+- ⚔️ Sistema de combate
+- 🌎 Exploração
+- 📈 Sistema de nível e XP
+- 🎒 Coleta de recursos
+- 🏘️ Vila central
+- 💾 Sistema de save persistente
+- 🧪 Testes automatizados
+- 📱 Arquitetura preparada para mobile
+
+### Tecnologias
+
+`Godot` `GDScript` `Git`
+
+🔗 [Ver projeto](https://github.com/jvrov/Tiny-Kingdom)
+
+---
+
+## 🎯 ApostasVIP
+
+Aplicação web Full Stack para criação e participação em eventos de apostas.
+
+### Principais funcionalidades
+
+- 👤 Cadastro e autenticação
+- 🎯 Criação de eventos
+- 💰 Sistema de carteira
+- 🎲 Participação em eventos
+- 📜 Histórico
+- 🛡️ Administração e moderação
+- 🗄️ Persistência em banco de dados
+
+### Tecnologias
+
+`Python` `Flask` `MySQL` `HTML` `CSS`
+
+🔗 [Ver projeto](https://github.com/jvrov/PROJETO2)
+
+---
+
+## 🌐 Portfólio Pessoal
+
+Meu portfólio pessoal desenvolvido para apresentar meus projetos, tecnologias e trajetória como desenvolvedor.
+
+### Objetivos
+
+- 👨‍💻 Apresentar meus projetos
+- 🛠️ Mostrar minha stack
+- 💼 Facilitar contato com recrutadores
+- 📱 Interface totalmente responsiva
+- 🎨 Design moderno e minimalista
+
+### Tecnologias
+
+`HTML` `CSS` `JavaScript`
+
+🌐 [Acessar portfólio](https://jvrov.github.io/site/)
+
+💻 [Ver código](https://github.com/jvrov/site)
+
+---
+
+# 🛠️ Tecnologias
+
+### Linguagens
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
@@ -114,13 +148,13 @@ Full-stack betting event platform developed as a web application.
 <img src="https://skillicons.dev/icons?i=nodejs,spring,flask" />
 </p>
 
-### Databases
+### Banco de Dados
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### Tools
+### Ferramentas
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
@@ -128,28 +162,31 @@ Full-stack betting event platform developed as a web application.
 
 ---
 
-## 🎓 Education
+# 🎓 Formação
 
-**Software Engineering — PUC-Campinas**
+### Engenharia de Software
 
-Expected graduation: **2027**
+**PUC-Campinas**
 
-Currently studying software architecture, databases, distributed systems,
-object-oriented programming and artificial intelligence.
-
----
-
-## 🔭 Currently Working On
-
-- 🏰 Expanding **Tiny Kingdom**
-- 🤖 Building AI-powered software tools
-- 🌐 Improving my personal portfolio
-- ⚙️ Improving backend and software architecture skills
-- 📚 Learning more about scalable applications and cloud technologies
+📅 Previsão de conclusão: **2027**
 
 ---
 
-## 📊 GitHub
+# 🔭 Atualmente trabalhando em
+
+🏰 Evolução do **Tiny Kingdom**
+
+🤖 Aplicações utilizando Inteligência Artificial
+
+🌐 Modernização do meu portfólio
+
+⚙️ Backend e arquitetura de software
+
+☁️ Docker, deploy e aplicações em cloud
+
+---
+
+# 📊 Estatísticas
 
 <div align="center">
 
@@ -163,21 +200,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvrov&layout
 
 ---
 
-## 🤝 Let's Connect
-
-I'm interested in:
-
-💼 Internship opportunities  
-💻 Junior Developer opportunities  
-🤝 Open-source collaboration  
-🚀 Interesting software projects
+# 📫 Contato
 
 <div align="center">
 
-### 📬 Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joão-vitor-roventini-61660822a/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joão-vitor-roventini-61660822a/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jv.roventini@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=github)](https://jvrov.github.io/site/)
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jv.roventini@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfólio-Acessar-111111?style=for-the-badge&logo=github)](https://jvrov.github.io/site/)
 
 </div>
