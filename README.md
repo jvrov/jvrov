@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou João Vitor Roventini
+# Eu sou João Vitor Roventini
 
 ### 🎓 Estudante de Engenharia de Software | 💻 Desenvolvedor Full Stack
 
